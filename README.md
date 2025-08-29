@@ -1,4 +1,4 @@
-*Archived*: Moved to https://github.com/Beneficial-AI-Foundation/vericoding/tree/main/code2verus
+**Archived**: Moved to https://github.com/Beneficial-AI-Foundation/vericoding/tree/main/code2verus
 
 # Code2Verus
 
