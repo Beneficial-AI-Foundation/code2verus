@@ -1,3 +1,5 @@
+*Archived*: Moved to https://github.com/Beneficial-AI-Foundation/vericoding/tree/main/code2verus
+
 # Code2Verus
 
 An extension of [Quinn's tool](https://github.com/Beneficial-AI-Foundation/dafny2verus) to translate code from various verification languages (Dafny, Lean) to [Verus](https://verus-lang.github.io/verus/guide/overview.html) using AI models.
